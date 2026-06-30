@@ -492,7 +492,7 @@ Pengajuan keberatan ini dikirimkan sesuai dengan prosedur penyelesaian sengketa 
             <div className="space-y-2 text-xs">
               <div className="flex justify-between py-1 border-b border-dashed border-slate-200 dark:border-slate-800">
                 <span className="text-slate-500">Hotline PPID</span>
-                <span className="font-semibold text-emerald-600 dark:text-emerald-400">+62 812-3456-7890</span>
+                <span className="font-semibold text-emerald-600 dark:text-emerald-400">+62 821-4363-5431</span>
               </div>
               <div className="flex justify-between py-1 border-b border-dashed border-slate-200 dark:border-slate-800">
                 <span className="text-slate-500">Jam Layanan</span>
