@@ -1,0 +1,6 @@
+{
+  "name": "ePPID Pengadilan Agama Blitar",
+  "description": "Aplikasi ePPID (Pejabat Pengelola Informasi dan Dokumentasi) resmi Pengadilan Agama Blitar untuk aksesibilitas layanan keterbukaan informasi publik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
