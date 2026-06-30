@@ -53,7 +53,7 @@ export default function FormulirView({ onAddSubmission }: FormulirViewProps) {
   const [waMessage, setWaMessage] = useState('Halo PPID Pengadilan Agama Blitar, saya ingin menanyakan tentang prosedur beracara dan jadwal pelayanan informasi.');
 
   const handleSendWhatsApp = () => {
-    const formattedPhone = "6281234567890"; // Mock official PA Blitar WhatsApp number
+    const formattedPhone = "6282143635431"; // Mock official PA Blitar WhatsApp number
     const encodedText = encodeURIComponent(waMessage);
     window.open(`https://wa.me/${formattedPhone}?text=${encodedText}`, '_blank');
   };
@@ -101,7 +101,7 @@ ${permohonanData.tujuanPenggunaan || '-'}
 ---
 Mohon kiranya permohonan informasi kami dapat diproses sesuai dengan ketentuan SK KMA No. 2-144/KMA/SK/VIII/2022. Terima kasih.`;
 
-    const formattedPhone = "6281234567890"; // Hotline PPID PA Blitar
+    const formattedPhone = "6282143635431"; // Hotline PPID PA Blitar
     const encodedText = encodeURIComponent(waText);
     window.open(`https://wa.me/${formattedPhone}?text=${encodedText}`, '_blank');
 
@@ -149,7 +149,7 @@ ${keberatanData.kasusPosisi || '-'}
 ---
 Pengajuan keberatan ini dikirimkan sesuai dengan prosedur penyelesaian sengketa informasi di Pengadilan Agama Blitar. Terima kasih.`;
 
-    const formattedPhone = "6281234567890"; // Hotline PPID PA Blitar
+    const formattedPhone = "6282143635431"; // Hotline PPID PA Blitar
     const encodedText = encodeURIComponent(waText);
     window.open(`https://wa.me/${formattedPhone}?text=${encodedText}`, '_blank');
 
