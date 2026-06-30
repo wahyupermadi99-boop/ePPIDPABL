@@ -156,7 +156,7 @@ export default function StandarLayananView() {
               </tr>
               <tr>
                 <td><b>WhatsApp</b></td>
-                <td>Meja Hotline PPID (+62 812-3456-7890)</td>
+                <td>Meja Hotline PPID (+62 821-4363-5431)</td>
                 <td>Seketika pada jam kerja</td>
               </tr>
               <tr>
